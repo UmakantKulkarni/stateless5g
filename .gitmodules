@@ -2,3 +2,6 @@
 	path = open5gs
 	url = https://github.com/UmakantKulkarni/open5gs/
 	branch = 7bcb3ee_mongo 
+[submodule "opensource-5g-core"]
+	path = opensource-5g-core
+	url = https://github.com/UmakantKulkarni/opensource-5g-core
