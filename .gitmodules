@@ -5,3 +5,7 @@
 [submodule "opensource-5g-core"]
 	path = opensource-5g-core
 	url = https://github.com/UmakantKulkarni/opensource-5g-core
+[submodule "UERANSIM"]
+	path = UERANSIM
+	url = https://github.com/UmakantKulkarni/UERANSIM
+	branch = 375d538_v3.2.2
