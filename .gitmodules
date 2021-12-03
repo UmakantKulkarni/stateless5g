@@ -1,0 +1,4 @@
+[submodule "open5gs"]
+	path = open5gs
+	url = https://github.com/UmakantKulkarni/open5gs/
+	branch = 7bcb3ee_mongo 
