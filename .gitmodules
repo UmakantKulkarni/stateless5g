@@ -9,3 +9,6 @@
 	path = UERANSIM
 	url = https://github.com/UmakantKulkarni/UERANSIM
 	branch = 375d538_v3.2.2
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/UmakantKulkarni/scripts
